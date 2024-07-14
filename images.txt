@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-linuxserver/wps-office:chinese-version-2024-07-12
+linuxserver/wps-office:11.1.0
